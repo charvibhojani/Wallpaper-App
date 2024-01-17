@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical">
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Liked Wallpapers"
+        android:id="@+id/like"
+        android:textSize="20dp"/>
+
+<!--    <Button-->
+<!--        android:id="@+id/home"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:background="@drawable/category"-->
+<!--        android:padding="5dp"-->
+<!--        android:text="Add to home screen"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="24dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/lock"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:background="@drawable/category"-->
+<!--        android:padding="5dp"-->
+<!--        android:text="Add to lock screen"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="24dp" />-->
+
+<!--    <Button-->
+<!--        android:id="@+id/like"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:layout_marginTop="10dp"-->
+<!--        android:background="@drawable/category"-->
+<!--        android:padding="5dp"-->
+<!--        android:text="Liked Wallpapers"-->
+<!--        android:textColor="@color/black"-->
+<!--        android:textSize="24dp" />-->
+
+</LinearLayout>
